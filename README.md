@@ -6,11 +6,15 @@ The field of recommender systems is currently experiencing robust development, w
 # Dependencies
 At least 10GB GPU memory. At least 32GB memory.
 
-1.torch~=1.0.0
+1.tensorflow=2.3.0
 
-2.torchvision~=0.2.1
-3
-4
+2.numpy=1.16.0
+
+3.python=3.7
+
+4.keras=2.4.3
+
+5.matplotlib=2.2.3
 # Hyperparameters
 If you use the same setting as our papers, you can simply adopt the hyperparameters reported in our paper. If you try a setting different from our paper, please tune the hyperparameters of FedRL. The user batch size in each training round is searched from {16, 32, 64, 128, 256}, the learning rate is searched from {0.001, 0.01, 0.1} based on the validation set performance, and the embedding size is adjusted from {4, 8, 16, 32, 64}. The coefficient for the target importance in the reward function of RLS is set to [a1,a2,a3] = [1,0.1,0.1].
 # Citation
