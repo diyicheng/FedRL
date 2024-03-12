@@ -13,3 +13,5 @@ At least 10GB GPU memory. At least 32GB memory.
 4
 # Hyperparameters
 If you use the same setting as our papers, you can simply adopt the hyperparameters reported in our paper. If you try a setting different from our paper, please tune the hyperparameters of FedRL. The user batch size in each training round is searched from {16, 32, 64, 128, 256}, the learning rate is searched from {0.001, 0.01, 0.1} based on the validation set performance, and the embedding size is adjusted from {4, 8, 16, 32, 64}. The coefficient for the target importance in the reward function of RLS is set to [a1,a2,a3] = [1,0.1,0.1].
+# Citation
+Please cite our paper if you find this code useful for your research.
