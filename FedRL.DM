@@ -1,5 +1,17 @@
-# We promise to open the source code upon acceptance of the paper.
-
 {
-   
+    "model_name": "FedRL",
+    "save_model": false,
+    "transfer_learning": false,
+    "use_existing_items": true,
+    "embedding_size": 8,
+    "interest_basis_num": 8,
+    "interest_basis_dim":  16,
+    "alpha": 0.01,
+    "a1": 1,
+    "a2": 0.1,
+    "a3": 0.1,
+    "gamma": 0.001,
+    "max_epoch": 20,
+    "eval_batch": 256,
+    "use_gpu": "0"
 }
