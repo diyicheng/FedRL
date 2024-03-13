@@ -1,6 +1,43 @@
-# We promise to open the source code upon acceptance of the paper.
-
-
 {
-
+    "DATASET": "ml-1m",
+    "ml-1m": {
+        "USER_NUM": 6040,
+        "CREATOR_NUM": 324,
+        "GENRE_NUM" : 273,
+        "CHARACTER_NUM": 549,
+        "SUPPORT_SIZE": 10,
+        "QUERY_SIZE": 10,
+        "NEGATIVE_NUM": 20,
+        "EPOCH_NUM": 10
+    },
+    "Ciao":{
+        "USER_NUM": 7375,
+        "CREATOR_NUM": 7,
+        "GENRE_NUM": 11,
+        "CHARACTER_NUM": 561,
+        "SUPPORT_SIZE": 10,
+        "QUERY_SIZE": 10,
+        "NEGATIVE_NUM": 20,
+        "EPOCH_NUM": 10
+    },
+   "DM":{
+        "USER_NUM": 2964,
+        "CREATOR_NUM": 7,
+        "GENRE_NUM": 11,
+        "CHARACTER_NUM": 183,
+        "SUPPORT_SIZE": 10,
+        "QUERY_SIZE": 10,
+        "NEGATIVE_NUM": 20,
+        "EPOCH_NUM": 10
+    },
+    "AM": {
+        "USER_NUM": 15067,
+        "CREATOR_NUM": 6404,
+        "GENRE_NUM": 879,
+        "CHARACTER_NUM": 821
+        "SUPPORT_SIZE": 5,
+        "QUERY_SIZE": 5,
+        "NEGATIVE_NUM": 10,
+        "EPOCH_NUM": 10
+    }
 }
