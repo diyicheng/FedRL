@@ -1,4 +1,4 @@
-# We promise to open the source code upon acceptance of the paper.
+# We are committed to fully open-source the paper upon acceptance to promote the open-source community.
 import pandas as pd
 from collections import defaultdict
 from tqdm import tqdm
