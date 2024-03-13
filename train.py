@@ -1,2 +1,2 @@
-# We promise to open the source code upon acceptance of the paper.
+# We are committed to open-source all code after acceptance of the paper to help build the community.
 
