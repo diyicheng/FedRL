@@ -5,7 +5,7 @@
     "use_existing_items": true,
     "embedding_size": 16,
     "interest_basis_num": 16,
-    "interest_basis_dim":  32,
+    "interest_basis_dim": 32,
     "alpha": 0.01,
     "a1": 1,
     "a2": 0.1,
