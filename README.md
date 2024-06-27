@@ -23,6 +23,10 @@ Please cite our paper if you find this code useful for your research. If you hav
   doi          = {XXX},
 }
 ```
+## Get Data
+
+Please find the data on [Google Drive](https://drive.google.com/drive/folders/1rBNzDV7F-60920h3RDac6HYTI9wyQuR8?usp=drive_link)
+
 # Dependencies
 At least 10GB GPU memory. At least 32GB memory.
 
