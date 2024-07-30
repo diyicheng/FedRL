@@ -14,7 +14,7 @@ Please cite our paper if you find this code useful for your research. If you hav
                   Efficient Communication Using
                   Reinforcement Selector and 
                   Hypernet Generator},
-  journal      = {Trans. Recomm. Syst.},
+  journal      = {XXX},
   volume       = {X},
   number       = {X},
   pages        = {XXX},
